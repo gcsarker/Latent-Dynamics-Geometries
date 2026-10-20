@@ -2,8 +2,7 @@
 
 # Latent Dynamics Geometries
 
-[![Paper](https://img.shields.io/badge/Paper-OpenReview-B31B1B?logo=openreview&logoColor=white)](https://openreview.net/forum?id=XQLa5PVQ0D)
-[![arXiv](https://img.shields.io/badge/arXiv-2606.02280-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.02280)
+[![PMLR](https://img.shields.io/badge/Paper-PMLR-B31B1B)](https://proceedings.mlr.press/v306/xu26cq.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Dynamics Are Learned, Not Told: Semi-Supervised Discovery of Latent Dynamics Geometries For Zero-Shot Policy Adaptation**
@@ -186,11 +185,13 @@ This project builds upon:
 If you find this work useful, please cite:
 
 ```bibtex
-@article{latent-dynamics-geometries,
-  title={Dynamics Are Learned, Not Told: Semi-Supervised Discovery of Latent Dynamics Geometries For Zero-Shot Policy Adaptation},
-  author={Xu, Zhiming and Zhou, Weitao and Pan, Xianghui and Deng, Nanshan and Liu, Chengju and Chen, Qijun and Yao, Chenpeng},
-  journal={arXiv preprint arXiv:2606.02280},
-  year={2026}
+@inproceedings{latent-dynamics-geometries,
+  title = {Dynamics Are Learned, Not Told: Semi-Supervised Discovery of Latent Dynamics Geometries For Zero-Shot Policy Adaptation},
+  author = {Xu, Zhiming and Zhou, Weitao and Pan, Xianghui and Deng, Nanshan and Liu, Chengju and Chen, Qijun and Yao, Chenpeng},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  pages = {142962--142988},
+  year = {2026},
+  publisher = {PMLR},
 }
 ```
 
