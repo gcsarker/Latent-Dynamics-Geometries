@@ -1,0 +1,23 @@
+Steps: 100352 | Eval reward: 431.55
+New best reward: 431.55
+Steps: 200704 | Eval reward: 1964.30
+New best reward: 1964.30
+Steps: 301056 | Eval reward: 1873.33
+Steps: 401408 | Eval reward: 1554.47
+Steps: 501760 | Eval reward: 1575.26
+Steps: 600064 | Eval reward: 1637.93
+Steps: 700416 | Eval reward: 1693.30
+Steps: 800768 | Eval reward: 2075.57
+New best reward: 2075.57
+Steps: 901120 | Eval reward: 1774.48
+Steps: 1001472 | Eval reward: 1678.04
+Steps: 1101824 | Eval reward: 2040.78
+Steps: 1200128 | Eval reward: 1736.42
+Steps: 1300480 | Eval reward: 1410.88
+Steps: 1400832 | Eval reward: 1647.95
+Steps: 1501184 | Eval reward: 1591.35
+Training completed!
+Final checkpoint: hopper_ldr_results/hopper_ldr_final.pt
+Finished training episodes: 4539
+Optimization records: 733
+Saved 680 dynamics to hopper_ldr_results/dynamics_latents.csvs
