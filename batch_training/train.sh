@@ -18,4 +18,4 @@ source /network/rit/dgx/dgx_dahlin_lab/Gobinda/anaconda3/etc/profile.d/conda.sh
 conda activate ldr
 
 # Run training
-python -u train_exp3.py
+python -u train_ldr_kmeans.py
