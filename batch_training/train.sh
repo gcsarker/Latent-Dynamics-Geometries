@@ -18,4 +18,4 @@ source /network/rit/dgx/dgx_dahlin_lab/Gobinda/anaconda3/etc/profile.d/conda.sh
 conda activate ldr
 
 # Run training
-python -u hopper_kmeans_functional.py
+python -u ldr.py

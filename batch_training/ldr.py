@@ -1334,7 +1334,7 @@ class GlobalDynamicsIDWrapper:
 
 
 
-ENV_ID = "HalfCheetah-v5"          # or "Walker2d-v5", "Ant-v5", "Hopper-v5"
+ENV_ID = "Walker2d-v5"          # or "Walker2d-v5", "Ant-v5", "Hopper-v5"
 TRAIN_SWITCH = {"HalfCheetah-v5": 5000}.get(ENV_ID, 2000)
 
 NUM_ENVS = 16
